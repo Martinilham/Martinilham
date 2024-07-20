@@ -94,7 +94,7 @@
 <br/>
 
 ## Top Open Source -
-[![Maulia-Bakery](https://github-readme-stats.vercel.app/api/pin/?username=Martinilham&repo=maulia-bakery_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Martinilham/maulia-bakery)
+[![Maulia-Bakery](![Martinilham's Stats](https://github-readme-stats.vercel.app/api?username=Martinilham&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)](https://github.com/Martinilham/maulia-bakery)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Martinilham&repo=portfolio_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Martinilham/portfolio)
 
 <p align="left">
